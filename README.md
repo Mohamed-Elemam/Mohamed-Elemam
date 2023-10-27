@@ -20,9 +20,6 @@
   </a>
 </p>
 <br>
-<h3>🌱 Currently, I'm expanding my skillset by diving into Node.js. I'm excited to explore its potential for server-side development and creating efficient backend solutions and building React.js on the side.
-</h3>
-<br />
 <h3>I'm always open to new opportunities and exciting projects. Feel free to reach out if you have any questions or if you'd like to collaborate on something awesome! Let's build together! 🤝
 </h3>
 <br />
