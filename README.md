@@ -1,12 +1,5 @@
-<h1>I'm Mohamed Elemam</h1>
+<h1>Mohamed Elemam</h1>
 <h2>Frontend Web Developer</h2>
-
-<h3>
-  I am passionate Front-end Developer with a focus on building robust and
-  scalable applications using React. I thrive in dynamic and collaborative
-  environments where I can contribute my skills to create meaningful and
-  user-friendly experiences.
-</h3>
 
 <br />
 
@@ -20,5 +13,3 @@
   </a>
 </p>
 <br>
-
-<br />
