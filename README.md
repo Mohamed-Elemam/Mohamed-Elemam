@@ -1,5 +1,5 @@
-<h1 align="center">I'm Mohamed Elemam</h1>
-<h2 align="center">MERN Stack Developer</h2>
+<h1>I'm Mohamed Elemam</h1>
+<h2>Frontend Web Developer</h2>
 
 <h3>
   I am passionate Front-end Developer with a focus on building robust and
@@ -20,6 +20,5 @@
   </a>
 </p>
 <br>
-<h3>I'm always open to new opportunities and exciting projects. Feel free to reach out if you have any questions or if you'd like to collaborate on something awesome! Let's build together! 🤝
-</h3>
+
 <br />
